@@ -4,8 +4,6 @@ Temperature_Graph
 ### Plotting Temperature for 72 hours with the least amount of overhead
 ### Author: Hyun Suk Bang  
 
-In order to study C# and WPF, when I was new to Exicon.
-
 #### Technologies Used
 * .Net 4.5
 * WPF
